@@ -8,7 +8,7 @@ Blink your Xmas tree via MQTT (Subscriber)
 
     $ sudo yum install python-paho-mqtt
 
-- for RaspberianOS
+- for RaspbianOS
 
     $ sudo apt-get install python-rpi.gpio
 
