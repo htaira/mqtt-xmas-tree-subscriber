@@ -28,9 +28,9 @@ def tree_light(mode):
     print "mode: {0}".format(mode)
 
     if mode == "off":
-         print "LED: {0}".format("on")
-    elif mode == "on":
          print "LED: {0}".format("off")
+    elif mode == "on":
+         print "LED: {0}".format("on")
     elif mode == "blink":
         for i in range(3):
             print "LED: {0}".format("on")
